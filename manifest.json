@@ -1,0 +1,42 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "muffin-session",
+  "versions": [
+    {
+      "commit": "7de23a03ce00b61ba9adf01436b392c39e2df680",
+      "parsed_at": "2026-10-20T21:41:51.973967+00:00",
+      "tag": "2.6.0",
+      "filetree": "filetree/7de23a03ce00b61ba9adf01436b392c39e2df680.nq.gz",
+      "blobs": [
+        "blob/78df056a6afd6b2f7c5a8695635380a19f30acd9.nq.gz",
+        "blob/666ce2a519fd8f0c3599a11f968422b82612ca92.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/3d3de9177b065ccd2b82e03a2cd70dd8b0e5323a.nq.gz",
+        "blob/ce48f87110f5a00c4f3320f9ed0c8e630cb23daf.nq.gz",
+        "blob/5f1d5686f3dc12105665875988bbe0b90d32c2bc.nq.gz",
+        "blob/9072ae34323de98369469d29e1883b19e38e0f26.nq.gz",
+        "blob/c877256871e48ccaae105ee1e335a00149a54794.nq.gz",
+        "blob/0a6ee958310ca78a98bf4803c291d5898c7fd5b4.nq.gz",
+        "blob/b1ec394bd935fd3d8cac8e97d2eab7a0c26337d7.nq.gz",
+        "blob/8266cabce06efb1e50c31ce221a7c095f3233cc5.nq.gz",
+        "blob/1cd68de52e1ad33e3548cb7d3525ae94c946344b.nq.gz",
+        "blob/4a060cc8ce501e4a5b9157c2f5ed52285582dd60.nq.gz",
+        "blob/9a564ea1169c3177834be2acd0c1ab0a7a44304a.nq.gz",
+        "blob/b24e39a590c1bf09a6b1e4a28a34d9cac1435e5e.nq.gz",
+        "blob/23c5c150f58bdd129447223d88288e859f8cccb1.nq.gz",
+        "blob/92bd5157a187982bc555b4bb399eab258726fd7e.nq.gz",
+        "blob/7a3f07ab83552f47a8705fa5d22729a324a2f71a.nq.gz",
+        "blob/5b96d8dc972a5b2152e932f97bcee8b8ee9dceb2.nq.gz",
+        "blob/be18c273980280646a2aaa370950ae041a9ed695.nq.gz",
+        "blob/e728d03676c20ba87a39556e60b642f5df17ebde.nq.gz",
+        "blob/5f94f6d2a638b6cff0c8af2f40478b8f874bd41c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
