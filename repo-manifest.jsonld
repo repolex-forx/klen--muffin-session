@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-session/commit/7de23a03ce00b61ba9adf01436b392c39e2df680",
       "git:hexsha": "7de23a03ce00b61ba9adf01436b392c39e2df680",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.6.0"
     },
     {
